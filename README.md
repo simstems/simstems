@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simstems
-- 👀 I’m interested in, 
+- 👀 I’m interested in, all things python
 - 🌱 I’m currently learning, virtualization
 - 💞️ I’m looking to collaborate, on data driven python projects
 - 📫 How to reach me, https://www.linkedin.com/in/simstems
